@@ -1,4 +1,4 @@
-function hamming_odczyt = hamming_odczyt(x)
+function hamming_odczyt2 = hamming_odczyt2(x)
 
 pomocnicza = 1;
 hamming_odczyt2 = zeros(1,int16(length(x)/7*4));
